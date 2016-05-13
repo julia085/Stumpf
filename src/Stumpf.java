@@ -9,7 +9,7 @@ public class Stumpf {
     int x = eins.length;
 
     System.out.println("Länge von Array eins: " + );
-    System.out.println("Länge von Array eins: " + zwei.);
+    System.out.println("Länge von Array eins: " + zwei.length);
 
 
 }
